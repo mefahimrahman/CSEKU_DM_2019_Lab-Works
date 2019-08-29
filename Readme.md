@@ -7,3 +7,5 @@
     
     Lab 2b: Detect the class of a test image and show ten similar images using Five Numbers Summary & Varience as feature from training images.
     
+    Lab 3a: Detect the class of a test image using Five Numbers Summary, mean Deviation, skewness, coefficient of variance as feature using Pearson's Correlation Coefficient. 
+    
